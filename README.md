@@ -7,9 +7,10 @@
 
 ## Dashboard Overview
 
-![Dashboard Overview] (dashboard Scrrenshots/Profit .png)
+![Sales Dashboard](dashboard Scrrenshots/Sales.png)
+![Quantity Dashboard](dashboard Scrrenshots/Quantity.png)
+![Tooltips](dashboard Scrrenshots/Tooltips.png)
 
-![Test](dashboard Scrrenshots/Profit .png)
 
 
 /dashboard Scrrenshots/Quantity.png
