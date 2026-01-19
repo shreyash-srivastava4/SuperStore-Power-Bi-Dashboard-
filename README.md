@@ -7,7 +7,7 @@
 
 ## Dashboard Overview
 
-![Dashboard Overview] : (dashboard Scrrenshots/Profit .png)
+![Dashboard Overview] (dashboard Scrrenshots/Profit .png)
 
 /dashboard Scrrenshots/Quantity.png
 ## 1. Project Objective
