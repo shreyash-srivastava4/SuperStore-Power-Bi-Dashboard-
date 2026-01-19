@@ -7,7 +7,7 @@
 
 ## Dashboard Overview
 
-![Dashboard Overview] : https://github.com/shreyash-srivastava4/SuperStore-Power-Bi-Dashboard-/blob/main/Screenshot%20(119).png
+![Dashboard Overview] : Screenshot (119).png
 
 ## 1. Project Objective
 
