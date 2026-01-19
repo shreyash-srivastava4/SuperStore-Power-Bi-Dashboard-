@@ -7,7 +7,9 @@
 
 ## Dashboard Overview
 
-![Dashboard Overview] : Screenshot (119).png
+![Dashboard Overview] : dashboard Scrrenshots/Profit .png
+
+/dashboard Scrrenshots/Quantity.png
 ## 1. Project Objective
 
 The objective of this project is to design a scalable and interactive **Business Intelligence dashboard** using the Superstore dataset, enabling stakeholders to analyze **sales performance, profitability, order volume, and discount behavior** across multiple business dimensions.
