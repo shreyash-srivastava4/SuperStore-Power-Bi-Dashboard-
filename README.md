@@ -7,11 +7,19 @@
 
 ## Dashboard Overview
 
+Sales:
+
 <img width="1423" height="797" alt="Sales " src="https://github.com/user-attachments/assets/a680eece-2203-427d-ac84-f377799a24a2" />
+
+Profit:
 
 <img width="1429" height="793" alt="Profit " src="https://github.com/user-attachments/assets/da2cb947-f4f1-4708-80b2-cec7c6db1639" />
 
+Quantity:
+
 <img width="1435" height="804" alt="Quantity" src="https://github.com/user-attachments/assets/bc066f83-d5c1-4ad2-9435-9e979b789ff0" />
+
+Tooltips: 
 
 <img width="1017" height="553" alt="Tooltips " src="https://github.com/user-attachments/assets/6e6f8432-8760-41c8-b5c4-058440345e7b" />
 
